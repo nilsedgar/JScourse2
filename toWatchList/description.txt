@@ -1,0 +1,1 @@
+Användaren kan med hjälp av tre inputfält, en dropdownbox och två knappar spara en film eller tv-serie i en lista under knapparna. Ett inputfält för titeln, ett för längd eller antal avsnitt beroende på om det är en film eller en serie och en dropdownbox med genrer. Användaren kan ta bort ett inlägg genom att klicka med musen på inlägget.
